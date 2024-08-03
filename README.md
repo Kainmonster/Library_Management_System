@@ -15,7 +15,7 @@ Purpose:
 
 # Installations
 ```bash
-  https://github.com/Kainmonster/Library_Management_System.git
+  git clone https://github.com/Kainmonster/Library_Management_System.git
   cd Library_Management_System
 ```
 # Usage
